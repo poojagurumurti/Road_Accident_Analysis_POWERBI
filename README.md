@@ -7,6 +7,7 @@ Data Cleaning & Processing
 Created a dynamic dashboard with various chart types including card, multi-row card, area chart, bar chart, donut chart, slicer, and map.
 
 
+
 💡Insights:
 👉 📉 Achieved an impressive 12% YoY reduction in casualties, indicating positive progress.
 👉 Fatal casualties decreased by 33%, serious injuries by 16%, and slight injuries by 10%, reflecting overall safety improvement🚦.
